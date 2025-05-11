@@ -1,2 +1,4 @@
-# code-languages
-Some Languages
+# Featured languages:
+🐍Python🐍
+☕Java☕
+💻JavaScript💻
