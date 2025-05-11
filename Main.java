@@ -37,10 +37,10 @@ public class Main {
 
         // Functions
         System.out.println("\nFunctions:");
-        System.out.println(greet("Victor"));  // Now this works!
+        System.out.println(greet("Victor"));
     }
 
-    // Define the greet() method here
+    // Define the greet() method
     static String greet(String name) {
         return "Hello, " + name + "!";
     }
