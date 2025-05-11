@@ -1,4 +1,4 @@
 # Featured languages:
-🐍Python🐍
-☕Java☕
-💻JavaScript💻
+#🐍Python🐍
+#☕Java☕
+#💻JavaScript💻
