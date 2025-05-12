@@ -34,6 +34,6 @@
 2. php php.php
 3. brew services stop php
 
-## - Rust
+## - ☣️ Rust
 rustc rust.rs
 ./rust
