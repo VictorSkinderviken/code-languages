@@ -35,5 +35,5 @@
 3. brew services stop php
 
 ## - ☣️ Rust
-rustc rust.rs
-./rust
+1. rustc rust.rs
+2. ./rust
