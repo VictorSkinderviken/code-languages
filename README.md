@@ -33,3 +33,7 @@
 1. brew services start php
 2. php php.php
 3. brew services stop php
+
+## - Rust
+rustc rust.rs
+./rust
