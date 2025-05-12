@@ -11,25 +11,25 @@
 1. node javascript.js
 
 - 🔪 C#
-dotnet new console
-dotnet build
-dotnet run
+1. dotnet new console
+2. dotnet build
+3. dotnet run
 
 - 📍 TypeScript
-tsc typescript.ts
-node typescript.jsS
+1. tsc typescript.ts
+2. node typescript.jsS
 
 - 🦊 Kotlin
-kotlinc kotlin.kt
-kotlin KotlinKt.class
+1. kotlinc kotlin.kt
+2. kotlin KotlinKt.class
 
 - 🏃 Go
-go run go.go
+1. go run go.go
 
 - 📟 Bash
-bash bash.sh
+1. bash bash.sh
 
 - ⚛️ PHP
-brew services start php
-php php.php
-brew services stop php
+1. brew services start php
+2. php php.php
+3. brew services stop php
