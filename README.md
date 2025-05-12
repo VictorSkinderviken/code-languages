@@ -17,7 +17,7 @@
 
 ## - 📍 TypeScript
 1. tsc typescript.ts
-2. node typescript.jsS
+2. node typescript.js
 
 ## - 🦊 Kotlin
 1. kotlinc kotlin.kt
