@@ -1,14 +1,14 @@
 # Featured Languages:
 
 - 🐍 Python  
-python python.py
+1. python python.py
 
 - ☕ Java
-javac Main.java
-java Main.java
+1. javac Main.java
+2. java Main.java
 
 - 💻 JavaScript
-node javascript.js
+1. node javascript.js
 
 - 🔪 C#
 dotnet new console
