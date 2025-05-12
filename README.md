@@ -1,35 +1,35 @@
 # Featured Languages:
 
-- 🐍 Python  
+## - 🐍 Python  
 1. python python.py
 
-- ☕ Java
+## - ☕ Java
 1. javac Main.java
 2. java Main.java
 
-- 💻 JavaScript
+## - 💻 JavaScript
 1. node javascript.js
 
-- 🔪 C#
+## - 🔪 C#
 1. dotnet new console
 2. dotnet build
 3. dotnet run
 
-- 📍 TypeScript
+## - 📍 TypeScript
 1. tsc typescript.ts
 2. node typescript.jsS
 
-- 🦊 Kotlin
+## - 🦊 Kotlin
 1. kotlinc kotlin.kt
 2. kotlin KotlinKt.class
 
-- 🏃 Go
+## - 🏃 Go
 1. go run go.go
 
-- 📟 Bash
+## - 📟 Bash
 1. bash bash.sh
 
-- ⚛️ PHP
+## - ⚛️ PHP
 1. brew services start php
 2. php php.php
 3. brew services stop php
